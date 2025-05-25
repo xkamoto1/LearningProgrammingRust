@@ -12,4 +12,6 @@ cargo new axum-gcd
 cargo add axum
 cargo add serde -F derive
 cargo add tokio -F full
+cargo install watchexec-cli
+cargo install just
 ```
