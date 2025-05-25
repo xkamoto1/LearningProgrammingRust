@@ -19,4 +19,8 @@ cargo new mandlebolt
 cargo add num
 cargo add image
 cargo add crossbeam
+
+cargo new quickreplace
+cargo add text-colorizer
+cargo add regex
 ```
