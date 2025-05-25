@@ -1,0 +1,9 @@
+[package]
+name = "mandlebrot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossbeam = "0.8.4"
+image = "0.25.6"
+num = "0.4.3"

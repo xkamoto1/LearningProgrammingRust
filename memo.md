@@ -14,4 +14,9 @@ cargo add serde -F derive
 cargo add tokio -F full
 cargo install watchexec-cli
 cargo install just
+
+cargo new mandlebolt
+cargo add num
+cargo add image
+cargo add crossbeam
 ```
