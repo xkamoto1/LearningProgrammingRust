@@ -41,7 +41,7 @@ fn main() {
             eprintln!(
                 "{} failed to write to file '{}': {:?}",
                 "Error:".red().bold(),
-                args.filename,
+                args.output,
                 e
             );
             std::process::exit(1);
